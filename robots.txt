@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yaomeh.github.io/rss/sitemap.txt
+Sitemap: https://yaomeh.github.io/rss/sitemap-page.txt
